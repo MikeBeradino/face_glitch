@@ -1,0 +1,9 @@
+read me
+
+
+https://github.com/rarcega/instagram-scraper
+
+pip install opencv-python
+
+mac needs links to 
+/usr/local/Cellar/opencv/2.4.13/share/OpenCV/haarcascades
