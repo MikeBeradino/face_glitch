@@ -20,4 +20,4 @@ I used homebrew and had to Implicit linking the haar file.
 /usr/local/Cellar/opencv/2.4.13/share/OpenCV/haarcascades
 
 Sample of the gif.
-![](sample.gif)
+![](https://github.com/MikeBeradino/face_glitch/blob/master/gifs/insta1.gif)
